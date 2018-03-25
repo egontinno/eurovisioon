@@ -11,6 +11,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - changelog.md file by @egontinno.
 - README.md file by @egontinno.
 - test.php file by @egontinno.
+###Fixed 
+- fix for #2
 
 ## [0.1.1] - 2018-03-25
 ### Changed
